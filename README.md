@@ -1,4 +1,4 @@
-! [Cover] (https://ofaatpail.qnssl.com/2017-01-03-explore-python-cover.png)
+[Cover] (https://ofaatpail.qnssl.com/2017-01-03-explore-python-cover.png)
 
 Python tour
 ===
@@ -21,7 +21,7 @@ With the idea, the next will begin to write. Of course, from the generation of i
 
 First of all, I made reference to a number of related books, made a basis for the mind map, as follows:
 
-! [Mind Map] (https://ofaatpail.qnssl.com/2017-01-03-explore-python2.png)
+[Mind Map] (https://ofaatpail.qnssl.com/2017-01-03-explore-python2.png)
 
 Next, we must start writing, and this is the most difficult hurdle.
 
